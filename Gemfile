@@ -1,1 +1,1 @@
-gem "jekyll-theme-architect"
+gem "architect"
