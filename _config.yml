@@ -1,0 +1,13 @@
+# Setup
+name:         Nicola Forestieri
+tagline:      BI | Insights & Analytics | Power BI enthusiast
+baseurl:      ""
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+google_analytics: UA-68543905-2
