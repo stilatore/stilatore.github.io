@@ -10,4 +10,4 @@ gems:
 
 #Others
 markdown: kramdown
-google_analytics: UA-68543905-2
+google_analytics: "UA-68543905-2"
